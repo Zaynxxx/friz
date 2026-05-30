@@ -1,0 +1,6 @@
+{
+  "name": "FreezeX",
+  "description": "A productivity and parent-control tool to temporarily freeze apps and restrict internet access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

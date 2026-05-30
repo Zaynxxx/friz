@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreezeX</string>
+    <string name="accessibility_service_description">FreezeX matches foreground package names with your restricted list to launch blocking overlays during focus sessions.</string>
+    <string name="vpn_service_description">FreezeX routes internet requests of chosen restricted apps into a local secure blackhole to enforce offline limits.</string>
+    <string name="notification_channel_name">Active Blocker &amp; Firewall</string>
+    <string name="notification_channel_description">Notifies you about running freeze engines and secure local firewall status.</string>
+</resources>
